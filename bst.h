@@ -1,4 +1,3 @@
-
 typedef int elem_t;
 
 class Node {
@@ -33,4 +32,3 @@ class BST {
 	private:
 		Node* root;
 };
-
